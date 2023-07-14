@@ -17,4 +17,7 @@ data = pd.DataFrame(data)
 # TODO: remove all but the two biggest products
 
 
+# TODO: calculate the sum of the size of the two biggest products
+
+
 print(data)
