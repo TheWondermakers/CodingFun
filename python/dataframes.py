@@ -8,11 +8,11 @@ data = {
 data = pd.DataFrame(data)
 
 
-# TODO: create a new column named "size"
+# TODO: create a new column named "size" width * height
 
 
 # TODO: sort the dataframe based on the new column "size"
-
+data = data.sort_values(by='width', ascending=False)
 
 # TODO: remove all but the two biggest products
 
