@@ -12,7 +12,7 @@ data = pd.DataFrame(data)
 
 
 # TODO: sort the dataframe based on the new column "size"
-data = data.sort_values(by='width', ascending=False)
+
 
 # TODO: remove all but the two biggest products
 
