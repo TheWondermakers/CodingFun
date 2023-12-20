@@ -8,16 +8,16 @@ data = {
 data = pd.DataFrame(data)
 
 
-# TODO: create a new column named "size" width * height
+# TODO: create a new column named "size" that equals width * height
 
 
 # TODO: sort the dataframe based on the new column "size"
 
 
-# TODO: remove all but the two biggest products
+# TODO: remove all but the two smallest products
 
 
-# TODO: calculate the sum of the size of the two biggest products
+# TODO: calculate the average size of the two smallest products
 
 
 print(data)
